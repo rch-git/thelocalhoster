@@ -62,4 +62,4 @@ But, I am done with GTA 3 now, I don't know what I am going to play next, there 
 
 Well, I'll close this post for now, until I being my next game, or resume as the case may be, it's good bye!
 
-_First published on GameSpot_
+_First published on GameSpot. This post is published on Apr 04, 2026 Sunday 10:18:00 PM CDT_

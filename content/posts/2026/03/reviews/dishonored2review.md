@@ -32,4 +32,4 @@ The story is fine. Within the first 15 minutes, Emily Kaldwin is deposed by her 
 
 Dishonored 2 is a better game than the original, and fans of single player stealth/action games should absolutely play it. It is one of the best games ever made.
 
-_This review is written on Amtrak, en route from Austin to Fort Worth, TX and published at Amtrak station 1001 Jones St, Fort Worth, TX 76102 on 3/29/2026 via free Greyhound WiFi._
+_This review is written on Amtrak, en route from Austin to Fort Worth, TX and published at Amtrak station 1001 Jones St, Fort Worth, TX 76102 on 3/29/2026 via free Greyhound WiFi. First published on blogbytes.net. This post is published on Apr 04, 2026 Sunday 20:07:00 PM CDT_
