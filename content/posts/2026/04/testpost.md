@@ -78,3 +78,6 @@ link to another page in the blog
 {{< newtab href="/posts/2010/01/reviews/lotrbfme-review/" text="Lord of the Rings Battle For Middle Earth" >}}
 
 _First published on GameSpot_
+
+
+_This post is published on _

@@ -133,3 +133,5 @@ Our monthly mortgage payment was $1190.36, including insurance, taxes, principal
 Overall, the realtor did a great job at handling everything, and the sellers was kept their end of the bargain, and we had a very smooth home buying experience.
 
 Now, it was time for us to move to our new home, and this was where being a minimalist worked in my favor because I had very few possessions. I will write about our moving process in another blog.
+
+_This post is published on Apr 06, 2026 Monday 08:12:26 PM CDT_

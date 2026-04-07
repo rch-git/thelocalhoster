@@ -28,3 +28,5 @@ Of course, each day that I carry the mortgage, I am making a net payment of arou
     align="center"
     caption="My views on debt"
 >}}
+
+_This post is published on Apr 06, 2026 Monday 08:12:17 PM CDT_
