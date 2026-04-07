@@ -1,0 +1,4 @@
+/* Reduce global font size slightly */
+body {
+  font-size: 0.95rem; /* 1.0rem is default — reduce by ~5% */
+}
