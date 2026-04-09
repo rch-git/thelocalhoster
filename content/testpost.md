@@ -1,5 +1,5 @@
 ---
-date: '2026-04-04T07:04:52-05:00'
+date: '2026-04-04T07:04:52'
 draft: true
 title: 'test post'
 cover:

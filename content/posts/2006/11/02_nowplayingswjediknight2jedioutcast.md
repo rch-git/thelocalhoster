@@ -1,5 +1,5 @@
 ---
-date: '2006-11-20T00:00:00-05:00'
+date: '2006-11-20T00:00:00'
 draft: false
 title: 'Now Playing - Star Wars Jedi Knight II - Jedi Outcast'
 tags: ["Now Playing"]

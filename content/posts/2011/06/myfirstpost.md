@@ -1,5 +1,5 @@
 ---
-date: '2011-06-16T23:18:00-05:00'
+date: '2011-06-16T23:18:00'
 draft: true
 title: 'My First Post'
 ---

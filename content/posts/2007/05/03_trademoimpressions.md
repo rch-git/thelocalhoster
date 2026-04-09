@@ -1,5 +1,5 @@
 ---
-date: '2007-05-27T00:00:00-05:00'
+date: '2007-05-27T00:00:00'
 draft: false
 title: 'Tomb Raider Anniversary Demo Impressions'
 ---

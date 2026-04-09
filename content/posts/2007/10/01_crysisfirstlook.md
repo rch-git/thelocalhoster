@@ -1,5 +1,5 @@
 ---
-date: '2007-10-29T00:00:00-05:00'
+date: '2007-10-29T00:00:00'
 draft: false
 title: 'Crysis - First Look'
 ---

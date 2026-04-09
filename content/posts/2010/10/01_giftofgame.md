@@ -1,5 +1,5 @@
 ---
-date: '2010-10-29T20:35:00-05:00'
+date: '2010-10-29T20:35:00'
 draft: false
 title: 'Given The Gift of Game'
 ---

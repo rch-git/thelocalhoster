@@ -1,5 +1,5 @@
 ---
-date: '2006-04-02T00:00:00-06:00'
+date: '2006-04-02T00:00:00'
 draft: false
 title: 'Tomb Raider Legend Demo Review'
 tags: ["Tomb Raider Legend", "Game Review"]

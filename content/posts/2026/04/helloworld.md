@@ -1,5 +1,5 @@
 ---
-date: '2026-04-04T16:42:32-05:00'
+date: '2026-04-04T16:42:32'
 draft: false
 title: 'Hello World'
 tags: ["hello world"]

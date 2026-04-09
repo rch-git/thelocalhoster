@@ -1,5 +1,5 @@
 ---
-date: '2006-05-06T00:00:00-05:00'
+date: '2006-05-06T00:00:00'
 draft: false
 title: 'Chili  Peppers Angry At Album Leak'
 ---

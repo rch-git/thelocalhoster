@@ -1,5 +1,5 @@
 ---
-date: '2006-12-27T00:00:06-05:00'
+date: '2006-12-27T00:00:06'
 draft: false
 title: 'Life Without Internet'
 ---

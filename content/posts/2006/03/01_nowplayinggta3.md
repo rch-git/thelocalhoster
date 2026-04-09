@@ -1,5 +1,5 @@
 ---
-date: '2006-03-10T00:00:00-06:00'
+date: '2006-03-10T00:00:00'
 draft: false
 title: 'Now Playing - GTA 3'
 tags: ["GTA 3", "Now Playing"]

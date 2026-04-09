@@ -1,5 +1,5 @@
 ---
-date: '2024-07-04T13:32:00-05:00'
+date: '2024-07-04T13:32:00'
 draft: false
 title: 'Dishonored (PC) Review'
 tags: ["Dishonored", "Game Review", "review"]

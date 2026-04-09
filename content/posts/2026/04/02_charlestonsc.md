@@ -1,5 +1,5 @@
 ---
-date: '2026-04-07T05:24:12-05:00'
+date: '2026-04-07T05:24:12'
 draft: false
 title: 'Work Trip to Charleston, SC'
 tags: ["travel", "Charleston, SC"]

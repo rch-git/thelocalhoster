@@ -1,5 +1,5 @@
 ---
-date: '2016-03-28T07:11:00-05:00'
+date: '2016-03-28T07:11:00'
 draft: false
 title: 'Evolution of my battlestations'
 cover:

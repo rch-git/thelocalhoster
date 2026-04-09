@@ -1,5 +1,5 @@
 ---
-date: '2010-01-24T20:14:00-06:00'
+date: '2010-01-24T20:14:00'
 draft: false
 title: 'Lord of the Rings: Battle For Middle Earth (PC) Review'
 tags: ["lotr", "Game Review"]

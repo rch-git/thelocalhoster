@@ -1,5 +1,5 @@
 ---
-date: '2010-05-09T10:23:00-05:00'
+date: '2010-05-09T10:23:00'
 draft: false
 title: 'Post Finals Bliss'
 ---

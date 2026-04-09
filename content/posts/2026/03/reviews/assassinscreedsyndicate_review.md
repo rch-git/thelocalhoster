@@ -1,5 +1,5 @@
 ---
-date: '2026-03-29T14:29:47-05:00'
+date: '2026-03-29T14:29:47'
 draft: false
 title: 'Assassins Creed Syndicate (PC) Review'
 tags: ["assassins creed", "review", "game review"]

@@ -1,5 +1,5 @@
 ---
-date: '2016-03-19T20:43:00-05:00'
+date: '2016-03-19T20:43:00'
 draft: false
 title: 'Buying our first home'
 tags: ["real estate", "home purchase"]

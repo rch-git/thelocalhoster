@@ -1,5 +1,5 @@
 ---
-date: '2006-09-08T00:00:00-05:00'
+date: '2006-09-08T00:00:00'
 draft: false
 title: 'Caesar 4 Demo'
 tags: ["caesar 4"]

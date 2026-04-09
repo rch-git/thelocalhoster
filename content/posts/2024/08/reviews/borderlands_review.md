@@ -1,5 +1,5 @@
 ---
-date: '2024-08-04T10:20:00-05:00'
+date: '2024-08-04T10:20:00'
 draft: false
 title: 'Borderlands (PC) Review'
 tags: ["borderlands", "Game Review", "review"]

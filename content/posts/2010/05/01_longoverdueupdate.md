@@ -1,5 +1,5 @@
 ---
-date: '2010-05-02T15:41:00-05:00'
+date: '2010-05-02T15:41:00'
 draft: false
 title: 'Long Overdue Update'
 ---

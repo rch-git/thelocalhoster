@@ -1,5 +1,5 @@
 ---
-date: '2026-04-04T18:14:32-05:00'
+date: '2026-04-04T18:14:32'
 draft: false
 title: 'About'
 #description: "What is this about?"

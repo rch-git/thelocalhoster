@@ -1,5 +1,5 @@
 ---
-date: '2008-07-20T00:00:00-05:00'
+date: '2008-07-20T00:00:00'
 draft: false
 title: 'Moving Out Update'
 tags: ["levelup"]

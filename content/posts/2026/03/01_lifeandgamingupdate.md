@@ -1,5 +1,5 @@
 ---
-date: '2026-03-28T15:02:00-05:00'
+date: '2026-03-28T15:02:00'
 draft: false
 title: 'Life and Gaming Update in 2026'
 ---

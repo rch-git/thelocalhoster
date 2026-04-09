@@ -1,5 +1,5 @@
 ---
-date: '2006-11-25T00:00:00-05:00'
+date: '2006-11-25T00:00:00'
 draft: false
 title: 'Tomb Raider Anniversary Announcement'
 tags: ["tomb raider"]

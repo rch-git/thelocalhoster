@@ -1,5 +1,5 @@
 ---
-date: '2007-07-11T00:00:00-05:00'
+date: '2007-07-11T00:00:00'
 draft: false
 title: 'Level 20 - Metal Slime'
 ---

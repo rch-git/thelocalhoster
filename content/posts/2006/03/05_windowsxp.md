@@ -1,5 +1,5 @@
 ---
-date: '2006-03-20T00:00:00-06:00'
+date: '2006-03-20T00:00:00'
 draft: false
 title: 'How Long Will Windows XP Last?'
 ---

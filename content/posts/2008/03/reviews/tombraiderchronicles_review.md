@@ -1,5 +1,5 @@
 ---
-date: '2008-03-31T00:00:00-05:00'
+date: '2008-03-31T00:00:00'
 draft: false
 title: 'Tomb Raider Chronicles (PC) Review'
 tags: ["tomb raider", "Game Review"]
