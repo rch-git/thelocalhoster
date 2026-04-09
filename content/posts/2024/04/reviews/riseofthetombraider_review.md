@@ -20,3 +20,4 @@ It took me about 16 hours to finish the main campaign and some of the optional t
 
 I got this game for free on the Epic Game Store, which, despite all the Fortnite money, is still not great. Unfortunately, at the time of this writing, the game is not available on GOG. I recommend buying this game on Steam, where it frequently goes on sale.
 
+_This post is published on Apr 09, 2026 Thursday 01:05:37 PM CDT_
