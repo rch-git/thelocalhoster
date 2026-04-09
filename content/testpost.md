@@ -33,6 +33,15 @@ From github repo with center align and a clickable image.
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/helloworld.jpg"
 >}}
 
+append this `master/images/graw_review/03_graw_review_2023_02_25_22_59_39_269.jpg` to `@`
+
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/graw_review/03_graw_review_2023_02_25_22_59_39_269.jpg"
+    align="center"
+    caption="Weapon stats screen"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/graw_review/03_graw_review_2023_02_25_22_59_39_269.jpg"
+>}}
 
 {{< details summary="See the details" >}}
 This is a **bold** word.
