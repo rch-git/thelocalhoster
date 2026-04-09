@@ -8,8 +8,6 @@ tags: ["travel", "Charleston, SC"]
 
 Looking forward to the trip coming up. I will add details to this each day. I am scheduled to leave on April 13, 2026.
 
----
-
 ##### Flight Plan
 
 Monday April 13 2026, departure from OKC at 11:22AM, to ATL (Atlanta), 3h2m layover, arrival at CHS (Charleston) at 6:38PM.
@@ -18,9 +16,9 @@ Thursday April 16, 2026, departure from CHS (Charleston) at 2:55PM, to LGA (LaGu
 
 Its an odd way to get back from Charleston to OKC.
 
----
-
 Got to work on the presentations. Will post more updates.
+
+---
 
 #### Apr 09, 2026 Thursday 06:58:26 AM CDT
 
