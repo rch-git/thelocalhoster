@@ -12,7 +12,9 @@ You change history as either the forces of good or the forces of evil. The gamep
 
 Each province has different bonus resources; one map might give you power points which can be used to power up the abilities and another might give you command points. The 3D map of Middle-Earth is very well rendered, it looks beautiful with Nazgûl flying over Mordor and such.
 
+<p>
 {{< youtube VPLvlZmnxNA >}}
+<p/>
 
 One feature that almost compels you to conserve your troops is that they are persistent throughout the campaign, i.e the troops you have at the end of one mission will be carried over to the next one. At times, you get to call in your allies; its a great feeling to see a huge bunch of troops coming to your rescue in missions like Helm's Deep and Minas Tirith. Preserving your troops also means that your heroes can level up, which is very crucial for victory.
 
