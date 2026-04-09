@@ -4,7 +4,7 @@ draft: false
 title: 'Mirrors Edge (PC) Review'
 tags: ["mirrors edge", "game review"]
 ---
-I finished this game on Friday, September 25, 2009, 7:39:00 PM. This review was first published on GameSpot on November 1, 2009.
+_I finished this game on `Friday, September 25, 2009, 7:39:00 PM`. This review was first published on GameSpot on November 1, 2009._
 
 Mirror's Edge is a first person running game developed by DICE. You play as Faith, a free runner. The story is set in a modern utopian society with a totalitarian government. Invasive surveillance is a part of life in this city and runners help exchange information between parties without getting caught.
 
