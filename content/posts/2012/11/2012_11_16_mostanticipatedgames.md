@@ -41,9 +41,11 @@ Crysis 2 on the other hand, was a disappointment. Its not that the game looked p
 
 So, lets predict Crysis 3:
 
-It will still try and appeal to the Call of Duty crowd, much like Crysis 2. The multiplayer will be quickly forgotten. There will be quick time events (this makes me sad), and there will be no quick save in the PC version.
+<div class="italic-block">
+<p>It will still try and appeal to the Call of Duty crowd, much like Crysis 2. The multiplayer will be quickly forgotten. There will be quick time events (this makes me sad), and there will be no quick save in the PC version.</p>
 
-I think the game is going to be alright, but it will not live up to Crysis in my mind.
+<p>I think the game is going to be alright, but it will not live up to Crysis in my mind.</p>
+</div>
 
 #### Tomb Raider
 
@@ -56,4 +58,6 @@ I couldn't be bothered to play the other two games - Anniversary and Underworld.
 
 I like the direction they are taking the new game in. It seems less like an arcade game, and more like a serious survival adventure game.
 
-I predict, that the game is going to be pretty good. The PC version is going to be solid as well. The interface is going to be a console like, but still functional. Hopefully, the checkpoint saves will not make the game too frustrating, and the boss battles won't follow the unimaginative tedium I have seen in Tomb Raider Legend.
+_I predict, that the game is going to be pretty good. The PC version is going to be solid as well. The interface is going to be a console like, but still functional. Hopefully, the checkpoint saves will not make the game too frustrating, and the boss battles won't follow the unimaginative tedium I have seen in Tomb Raider Legend._
+
+_This post is published on Apr 09, 2026 Thursday 05:12:09 PM CDT_
