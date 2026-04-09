@@ -35,3 +35,5 @@ I have mixed feelings about the game.
 - Unsatisfactory Music: I was hoping for something good, and got something very forgettable instead. No where near as good as Black Flag, and even worse than Origins.
 
 I paid $11.99 for this game and feel that I got my money's worth; however, it's clear that it lacks polish. Given my experiences with this title and previous entries like Origins, I will be buying Assassin's Creed Valhalla. I think its going to be much of the same, and I have way too many games in backlog to buy a mediocre game.
+
+_This post is published on Apr 09, 2026 Thursday 07:41:31 AM CDT_
