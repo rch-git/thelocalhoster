@@ -3,6 +3,8 @@ languageCode: en-us
 title: thelocalhoster
 theme: ["PaperMod"]
 
+timeZone: "America/Chicago" # added to ensure that the build on netlify shows CDT/CST
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
