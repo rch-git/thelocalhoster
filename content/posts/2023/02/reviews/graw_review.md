@@ -2,13 +2,13 @@
 date: 2023-02-27T18:12:00
 draft: false
 title: 'Ghost Recon Advanced Warfighter (PC) Review'
-tags: ["game review", "ghost recon advanced warfighter", "review"]
+tags: ["Game Review", "ghost recon advanced warfighter", "review"]
 ---
 Ghost Recon Advanced Warfighter was released for the PC in May 2006. I remember playing the demo way back in the day, and my computer could barely keep up with it. The big marketing point at the time was the advanced physics capabilities of the game on PC. This title was supposed to take advantage of Ageia’s PhysX card. This was of course before Nvidia incorporated PhysX into GPUs, which I am glad they did. Imagine having to install a GPU and PPU to get the full experience.
 
 I got this game as a part of Tom Clancy's Ghost Recon Pack on Steam in May 2012 for $7.49. This included the original Ghost Recon games as well as G.R.A.W and G.R.A.W 2. However, these two games are no longer available for purchase on Steam or on UbiSoft Connect. I am not sure why this is the case, but there are forum posts that suggest that this is because of a licensing issue between Grin (the Swedish software company that made the PC version) and UbiSoft. Unfortunate. It appears that UbiSoft has this habit of abandoning games. Tom Clancy's H.A.W.X games were also met with the same fate.
 
-Apparently it is possible to download this game because its in copyright limbo, having been abandoned by UbiSoft, and Grin has gone bankrupt. There is a link to be found {{< newtab href="https://www.amazon.com/Intel-Pentium-1-7GHz-400MHz-Socket/dp/B000YA9FM0" text="HERE" >}}, but I have not tested this.
+Apparently it is possible to download this game because its in copyright limbo, having been abandoned by UbiSoft, and Grin has gone bankrupt. There is a link to be found {{< newtab href="https://archive.org/details/ghost-recon-advanced-warfighter" text="HERE" >}}, but I have not tested this.
 
 Playing this game 17 years later, on an i7 6700k with a 1080Ti, I have to say it does not look great, and that is not necessarily a slight against the fidelity of graphics, but its the art style that is rather poor. It is after all a product of its time. On the console, it was very much like a generic third person shooter from the mid 2000s complete with a brown color pallette, and obnoxious UI. While the game plays very differently on the PC, i.e., as a tactical shooter, it still retains the brown aesthetic, which is not something I consider anything remotely beautiful. That said, the runs very well, when its not getting bogged down by visual glitches. The UI fairly minimal on the PC. The hud is very clean looking, and modern titles should learn a thing or two about designing a clean UI.
 
