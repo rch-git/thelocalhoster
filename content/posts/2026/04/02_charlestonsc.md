@@ -4,13 +4,13 @@ draft: false
 title: 'Work Trip to Charleston, SC'
 tags: ["travel", "Charleston, SC"]
 ---
-##### Apr 07, 2026 Tuesday 05:24:44 AM CDT
+#### Apr 07, 2026 Tuesday 05:24:44 AM CDT
 
 Looking forward to the trip coming up. I will add details to this each day. I am scheduled to leave on April 13, 2026.
 
 ---
 
-#### Flight Plan
+##### Flight Plan
 
 Monday April 13 2026, departure from OKC at 11:22AM, to ATL (Atlanta), 3h2m layover, arrival at CHS (Charleston) at 6:38PM.
 
@@ -21,3 +21,9 @@ Its an odd way to get back from Charleston to OKC.
 ---
 
 Got to work on the presentations. Will post more updates.
+
+#### Apr 09, 2026 Thursday 06:58:26 AM CDT
+
+There are errands I need to run. I was contemplating taking my own laptop to the conference, but I think it will be smarter to take my work laptop. Undocking it is painful because of the number of inputs that do into it. I might end up having to run the presentation on my machine.
+
+Today is going to be busy.
