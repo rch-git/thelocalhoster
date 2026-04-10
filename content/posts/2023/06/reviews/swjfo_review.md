@@ -2,7 +2,7 @@
 date: 2023-06-03T22:59:00
 draft: false
 title: 'Star Wars: Jedi Fallen Order (PC) Review'
-tags: ["star wars", "game reviews"]
+tags: ["star wars", "game review"]
 ---
 I did not like Star Wars: Jedi Fallen Order. This review is going to contain mild spoilers.
 

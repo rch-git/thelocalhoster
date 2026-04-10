@@ -7,7 +7,7 @@ cover:
   alt: 'Hello World'
   caption: 'Hello World Cover Caption'
   relative: false # ← explicit for static folder images
-tags: ["test", "post"]
+tags: ["game review"]
 ---
 
 <!-- http://localhost:1313/posts/2026/04/first/ -->
