@@ -2,7 +2,7 @@
 date: '2024-05-04T15:24:00'
 draft: false
 title: 'Doom Eternal (PC) Review'
-tags: ["doom eternal", "Game Review", "review"]
+tags: ["doom", "game review"]
 ---
 Doom Eternal annoyed me to no end.
 

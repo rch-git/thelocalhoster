@@ -2,7 +2,7 @@
 date: 2023-11-23T00:00:00
 draft: false
 title: ' Tomb Raider Anniversary (PC) Review'
-tags: ["tomb raider", "tomb raider anniversary", "game review"]
+tags: ["tomb raider", "game review"]
 ---
 Tomb Raider: Anniversary is a beautifully remade version of the classic 1996 game. It features modernized controls that are very much like Tomb Raider Legend, and while the majority of the game excels, subpar boss battles detract from the experience. The game's remastered visuals are fantastic, and the developers took some minor creative liberties with the level design, making the game better for it. I thoroughly enjoyed playing through iconic levels such as The Lost Valley, Palace Midas, and St. Francis Folly. The Tomb Raider Legend engine holds up very well.
 

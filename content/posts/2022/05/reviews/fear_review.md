@@ -2,7 +2,7 @@
 date: 2022-05-01T11:25:00
 draft: false
 title: 'F.E.A.R (PC) Review'
-tags: ["F.E.A.R", "game review"]
+tags: ["fear", "game review"]
 ---
 I first read about F.E.A.R when one of the computer gaming magazines I subscribed to had a demo for this game on the disk. Back in 2005, I did not have a computer good enough to run this game at settings that did justice to it. I believe I had a GeForce 5500FX, one of the worst GPUs to have ever been released, and it struggled to run this game at 1280x1024. I decided I wait for my next computer upgrade to play the demo.
 

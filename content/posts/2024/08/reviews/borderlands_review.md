@@ -2,7 +2,7 @@
 date: '2024-08-04T10:20:00'
 draft: false
 title: 'Borderlands (PC) Review'
-tags: ["borderlands", "Game Review", "review"]
+tags: ["borderlands", "game review"]
 ---
 I'm somewhat conflicted about Borderlands. Technically, it's a solid game. It ran smoothly on my setup with a 2560x1440 resolution, an i7-6700k processor, and a GeForce 1080Ti, without any issues.
 

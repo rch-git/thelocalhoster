@@ -2,7 +2,7 @@
 date: '2006-09-08T00:00:00'
 draft: false
 title: 'Caesar 4 Demo'
-tags: ["caesar 4"]
+tags: ["caesar"]
 ---
 As I am writing this, I am copying Caesar 4 demo from my pen drive to my hard drive. It’s a pretty hefty 446MB download. I told my friend to download this for me last week, and I got it from him tonight.
 

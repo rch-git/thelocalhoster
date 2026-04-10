@@ -1,7 +1,7 @@
 ---
 date: '2026-03-29T15:37:00'
 draft: false
-tags: ["dishonored", "review", "game review"]
+tags: ["dishonored", "game review"]
 title: 'Dishonored 2 (PC) Review'
 ---
 In my opinion the first Dishonored is one of the best single player games ever made. Sequels have a tendency to be not as good as the original. Sequels such as Crysis 2, F.E.A.R 2, Doom Eternal, Deus Ex Invisible War etc., were not as good as the first games.

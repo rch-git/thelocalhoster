@@ -2,7 +2,7 @@
 date: '2026-03-29T14:29:47'
 draft: false
 title: 'Assassins Creed Syndicate (PC) Review'
-tags: ["assassins creed", "review", "game review"]
+tags: ["assassins creed", "game review"]
 ---
 Got this game for free on Uplay. Finished it on Saturday, June 7, 2025.
 

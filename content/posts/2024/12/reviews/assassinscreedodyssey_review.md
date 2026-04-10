@@ -2,7 +2,7 @@
 date: '2024-12-21T11:58:00'
 draft: false
 title: 'Assassins Creed Odyssey (PC) Review'
-tags: ["assassins creed", "Game Review", "review"]
+tags: ["assassins creed", "game review"]
 ---
 I have mixed feelings about the game.
 
