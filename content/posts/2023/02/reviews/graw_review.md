@@ -2,7 +2,7 @@
 date: 2023-02-27T18:12:00
 draft: false
 title: 'Ghost Recon Advanced Warfighter (PC) Review'
-tags: ["game review", "ghost recon advanced warfighter", "review"]
+tags: ["game review", "ghost recon"]
 ---
 Ghost Recon Advanced Warfighter was released for the PC in May 2006. I remember playing the demo way back in the day, and my computer could barely keep up with it. The big marketing point at the time was the advanced physics capabilities of the game on PC. This title was supposed to take advantage of Ageia’s PhysX card. This was of course before Nvidia incorporated PhysX into GPUs, which I am glad they did. Imagine having to install a GPU and PPU to get the full experience.
 
