@@ -9,7 +9,14 @@ I wanted to talk about some of the games I am looking forward to the most.
 
 There are absolutely no details known about Battlefield 4 at this point. This is all we really know about it.
 
-Battlefield 4 beta
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/mostanticipatedgames/battlefield%204.png"
+    align="center"
+    caption="from staticcontent repo"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/mostanticipatedgames/battlefield%204.png"
+>}}
+
 I can only hope that DICE doesn't make this a consolized game. Battlefield 3 wasn't, so I have no reason to believe that Battlefield 4 would be any different.
 
 It would be interesting to look back months from now at my thoughts, and realize how right or wrong I was.
@@ -30,7 +37,13 @@ There are certain facts about the game that are very unappealing to me - quick t
 
 #### Crysis 3
 
-Crysis 3 2560x1600 Wallpaper
+
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/mostanticipatedgames/crysis_3.jpg"
+    align="center"
+>}}
+
 I don't know what to think about this game. I made a rather lengthy blog about things I disliked with Crysis 2. Hopefully, Crytek was paying attention to their fans. I thought Crysis and Warhead were one of the best games ever. I know a lot of people will disagree with me.
 
 Those games had all the design choices that I love in a FPS game.
@@ -49,7 +62,12 @@ So, lets predict Crysis 3:
 
 #### Tomb Raider
 
-Tomb Raider 2013 HD Wallpaper - 1920x1080
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/mostanticipatedgames/tomb-raider-wallpapers-hd-1080p.jpg"
+    align="center"
+>}}
+
 This one looks interesting. I played the first five Tomb Raider games, and at the time, I really liked them. However, I did not enjoy the rest of the games. I played the first level of Angel of Darkness, and that was enough for me.
 
 I really looked forward to Tomb Raider Legend, and for the most part, it lived up to my expectations. However, the boss fights were very lame, and are made for the console. As a PC gamer, I did not enjoy them, and I eventually gave up on the game. I hope to revisit this game someday and finish it.
