@@ -2,7 +2,7 @@
 date: 2024-04-21T20:41:00
 draft: false
 title: 'Rise of the Tomb Raider (PC) Review'
-tags: ["game review", "tomb raider", "rise of the tomb raider"]
+tags: ["game review", "tomb raider"]
 ---
 Rise of the Tomb Raider is a very solid sequel, and I really enjoyed this game. The graphics are top-notch — I played it at 3440x1440 resolution on a machine running an i7 12700k and a GeForce RTX 3080Ti with ray tracing enabled and I was getting over 100+ FPS with DLSS set to Quality mode. The attention to detail in the tombs you get to explore is outstanding, even extending to the optional ones. These optional tombs came closest to delivering the experience of the old games for me.
 

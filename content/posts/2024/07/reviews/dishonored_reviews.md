@@ -2,7 +2,7 @@
 date: '2024-07-04T13:32:00'
 draft: false
 title: 'Dishonored (PC) Review'
-tags: ["Dishonored", "Game Review", "review"]
+tags: ["dishonored", "game review"]
 ---
 Dishonored is one of the best single player games I ever played. It came very close to the original Deux Ex for me. There are so many ways to play this game - pure stealth, pure combat or a combination of both. The game manages to take player decisions into account and change things in subtle and interesting ways. The powers and skills acquired allow different ways to approach mission objectives.
 
