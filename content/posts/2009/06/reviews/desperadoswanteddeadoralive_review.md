@@ -2,6 +2,7 @@
 date: 2009-06-02T00:00:00
 draft: false
 title: 'Desperados: Wanted Dead or Alive (PC) Review'
+tags: ["Desperados", "game review"]
 ---
 _I finished this game on `Tuesday, November 23, 2004, 5:23:00 PM`. This review was first published on GameSpot on June 2, 2009._
 
