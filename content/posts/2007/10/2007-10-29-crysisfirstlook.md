@@ -2,32 +2,33 @@
 date: '2007-10-29T00:00:00'
 draft: false
 title: 'Crysis - First Look'
+tags: ["crysis"]
 ---
 Hello all, I understand that I am not supposed to be here, but how many times will there be a first time Crysis demo release? And how many times does a high profile game live up to it's huge expectations? :)
 
 I throw my pebble in the pile so to speak. So here you go: Crysis - First Look.
 
-###### Sunday, October 28, 2007 8:52 PM
+##### Sunday, October 28, 2007 8:52 PM
 
 Finished downloading the demo!
 
-###### Sunday, October 28, 2007 9:02 PM
+##### Sunday, October 28, 2007 9:02 PM
 
 Just finished installing the special drivers for the game, and for those of you who don't know, these can be found on the official website http://www.incrysis.com/
 
-###### Sunday, October 28, 2007 9:04 PM
+##### Sunday, October 28, 2007 9:04 PM
 
 Installing the demo. So far so good.
 
-###### Sunday, October 28, 2007 9:17 PM
+##### Sunday, October 28, 2007 9:17 PM
 
 Just started the game...I waited 31 hours for the download to finish!
 
-###### Sunday, October 28, 2007 9:21 PM
+##### Sunday, October 28, 2007 9:21 PM
 
-Everything in the game is set to low and the resolution was automatically set to 800*600. I decided to change the change the resolution to 1024*768 and see how the game would work. Should I dare to change it to 1280...?
+Everything in the game is set to low and the resolution was automatically set to 800x600. I decided to change the change the resolution to 1024x768 and see how the game would work. Should I dare to change it to 1280...?
 
-###### Sunday, October 28, 2007 9:24 PM
+##### Sunday, October 28, 2007 9:24 PM
 
 Awesome into sequence! Somehow reminds me of Quake 4.
 
@@ -37,11 +38,11 @@ As of now, I am waiting for Xfire update to be finished so that I can play this 
 
 The story hasn't changed it appears. There were reports at one time that the story was changed...but from the looks of things, it may have remained the same. I can't say for sure yet...but that's the impression I got. There might have subtle changes though...
 
-###### Sunday, October 28, 2007 9:38 PM
+##### Sunday, October 28, 2007 9:38 PM
 
 There is no support for this demo on Xfire it seems, so I will have to continue with my game. I'll see if there is a way I can take screen shots within the game, perhaps the function exists.
 
-###### Sunday, October 28, 2007 11:56 PM
+##### Sunday, October 28, 2007 11:56 PM
 
 Phone calls, dinner and other such real life obligations delayed my work here.
 
@@ -55,11 +56,11 @@ Of course, the game still doesn't look as good as it is supposed to, but I am sa
 
 I haven't finished the game as yet, so I think I am going to get to it right now, will update this as soon as I am done playing. I'll see if I can push the settings any higher and see how my video card might take it.
 
-###### Monday, October 29, 2007 7:02 AM
+##### Monday, October 29, 2007 7:02 AM
 
 Will give this game another run now. Will probably finish it and write about the other technical aspects of the game. I should have finished it last night, but there were several interruptions.
 
-###### Monday, October 29, 2007 10:48 AM
+##### Monday, October 29, 2007 10:48 AM
 
 Finished the demo at last! The ending is a bit of a cliffhanger. I will not give away the surprise; those of you who haven't played the game yet, must give this demo a try. I spent over 30 hours to download this game and tolerated several annoying interruptions - friends coming in unannounced, untimely phone calls, power failures; all that was worth it!
 
@@ -67,7 +68,7 @@ This game is going to be one of the most entertaining games ever!
 
 Good on you Crytek for a job well done.
 
-###### Final verdict
+##### Final verdict
 
 Before I write my closing comments, take a look at my computer configuration:
 
@@ -98,6 +99,6 @@ I am not very happy with the AI. For most part they are extremely competent, and
 
 Apart from this, I do not have any complaints with the game. This is sure to be a huge success.
 
-Verdict - 9.5/10
+__Verdict - 9.5/10__
 
 _First published on GameSpot_
