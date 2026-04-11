@@ -2,7 +2,7 @@
 title: 'F.E.A.R Diary'
 date: 2016-01-24T18:53:00
 draft: false
-tags: ["game diary"]
+tags: ["game diary", "fear"]
 ---
 I played some more F.E.A.R. today. Really like the it. Its a traditional PC game. Its got quick save, checkpoint save and manual save. They don't make games like this anymore. When I first played the demo for this game in 2005, I waited to play the full version because at the time I was using a BFG GeForce FX5500OC AGP card. I could barely run the game on medium at 1024x768.
 
