@@ -2,7 +2,7 @@
 title: 'Patch Gaming First Post'
 date: 2016-01-24T13:36:00
 draft: false
-tags: ["patch gaming"]
+tags: ["first post"]
 ---
 Writing this first post on a cold winter day on January 24, 2016. I intend to keep this blog all about the games I am going to play.
 

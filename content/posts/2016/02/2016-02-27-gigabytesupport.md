@@ -83,3 +83,5 @@ I quickly came back to my senses, and began the RMA process. I created the reque
 I removed the Gigabyte motherboard, and installed the new MSI board, and everything is working well now. I hope it stays this way. I do not want to make any changes to my machine until I am ready to build a Skylake machine.
 
 The bottomline is, I was very disappointed with Gigabyte. I am not going to buy their products after seeing how their RMA was very unhelpful. In contrast MSI did the right thing, and sent me a replacement without any fuss. I will stick to MSI for my Skylake build.
+
+_This post is published on Apr 11, 2026 Saturday 10:28:01 AM CDT_
