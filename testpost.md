@@ -33,16 +33,6 @@ From github repo with center align and a clickable image.
     link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/helloworld.jpg"
 >}}
 
-append this `master/images/graw_review/03_graw_review_2023_02_25_22_59_39_269.jpg` to `@`
-
-{{<
-    figure
-    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/graw_review/03_graw_review_2023_02_25_22_59_39_269.jpg"
-    align="center"
-    caption="Weapon stats screen"
-    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/graw_review/03_graw_review_2023_02_25_22_59_39_269.jpg"
->}}
-
 {{< details summary="See the details" >}}
 This is a **bold** word.
 {{< /details >}}
@@ -68,10 +58,7 @@ test2
 <p>this is a test</p>
 </div>
 
-youtube video
-<p>
-{{< youtube GdmQzi6I0oo >}}
-</p>
+
 
 How to escape symbols
 
@@ -79,14 +66,29 @@ How to escape symbols
 
 "double quotes inside double quotes \""
 
-Open link in a new tab
+#### youtube video
+
+<p>
+{{< youtube GdmQzi6I0oo >}}
+</p>
+
+#### Open link in a new tab
 {{< newtab href="https://www.amazon.com/Intel-Pentium-1-7GHz-400MHz-Socket/dp/B000YA9FM0" text="Pentium 4 1.7 GHz" >}}
 
-link to another page in the blog
+#### link to another page in the blog
 
 {{< newtab href="/posts/2010/01/reviews/lotrbfme-review/" text="Lord of the Rings Battle For Middle Earth" >}}
 
-_First published on GameSpot_
+append this `master/images/graw_review/03_graw_review_2023_02_25_22_59_39_269.jpg` to `@`
 
+{{<
+    figure
+    src="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/graw_review/03_graw_review_2023_02_25_22_59_39_269.jpg"
+    align="center"
+    caption="Weapon stats screen"
+    link="https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/graw_review/03_graw_review_2023_02_25_22_59_39_269.jpg"
+>}}
+
+_First published on GameSpot_
 
 _This post is published on _
