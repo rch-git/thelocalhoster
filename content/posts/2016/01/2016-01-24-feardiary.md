@@ -4,6 +4,8 @@ date: 2016-01-24T18:53:00
 draft: false
 tags: ["game diary", "fear"]
 ---
+#### Jan 24, 2016 Sunday 06:53:00 PM CST: Procrastination
+
 I played some more F.E.A.R. today. Really like the it. Its a traditional PC game. Its got quick save, checkpoint save and manual save. They don't make games like this anymore. When I first played the demo for this game in 2005, I waited to play the full version because at the time I was using a BFG GeForce FX5500OC AGP card. I could barely run the game on medium at 1024x768.
 
 I waited longer than I intended. I moved to a different country, graduated college twice, got a job and in 2011, I installed the full version of F.E.A.R. for the first time. I was using an EVGA GeForce GTX 570 at the time, and I was thoroughly impressed by the graphics. I played it for a bit, and soon Battlefield 3 consumed my gaming, and I barely played any single player games once I got into Battlefield 3.
