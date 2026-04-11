@@ -100,3 +100,5 @@ Towards the end, it reminded me a lot about Half-Life, specifically the beginnin
 Also, sprint and aim down sight (ADS) are very weird compared to modern games. Sprint feels more like walking, and ADS reminds me of the S.T.A.L.K.E.R games. The weapon is only sightly pulled up, and initially I couldn't tell the difference between ADS and non-ADS.
 
 All in all, great game, totally worth the $2.99 I paid for the bundle.
+
+_This post is published on Apr 11, 2026 Saturday 09:09:04 AM CDT_
