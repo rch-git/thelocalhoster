@@ -2,7 +2,7 @@
 title: 'Purchased a Detuned EVGA GTX 1080 Ti By Mistake'
 date: 2018-01-08T05:54:00
 draft: false
-tags: ["game review"]
+tags: ["gpu", "evga"]
 ---
 I wanted to purchase a GeForce 1080 Ti, and I narrowed down the model to the 3 fan version from EVGA. I added it to my wishlist and waited for the right time to buy.
 
