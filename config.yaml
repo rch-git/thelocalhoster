@@ -100,11 +100,7 @@ params:
   homeInfoParams:
     Title: "Introduction \U0001F44B"
     Content: >
-        - Hello and welcome to my blog. Access the Archives to find all my previous blog posts.
-
-        -
-
-        - Find my latest posts below.
+        Hello and welcome to my blog. Access the Archives to find all my previous blog posts. Find my latest posts below.
 
   socialIcons:
     - name: x
