@@ -1,7 +1,7 @@
 ---
 title: "Firewatch (PC) Review"
 date: 2021-10-13T07:18:00
-draft: false
+draft: true
 tags: ["game review", "firewatch"]
 ---
 This is not a feeble attempt to be a contrarian, but I fail to see how this game has received overwhelmingly positive reviews. It is possible that I am missing something?I don't see how. Allow me elaborate.

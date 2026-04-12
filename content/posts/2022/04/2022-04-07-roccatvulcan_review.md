@@ -1,7 +1,7 @@
 ---
 title: 'ROCCAT Vulcan 121 AIMO Cherry MX Brown Switches Review'
 date: 2022-04-07T07:57:00
-draft: false
+draft: true
 tags: ["hardware review"]
 ---
 I purchased the Renewed version of this keyboard on Amazon for $64.76. The original retail price is $159.99. I ordered it on April 4, 2022 and it arrived on April 6, 2022, and I didn't have to pay for shipping! Thank you Amazon.
