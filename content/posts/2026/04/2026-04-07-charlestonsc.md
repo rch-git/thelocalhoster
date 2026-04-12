@@ -1,6 +1,6 @@
 ---
 date: '2026-04-07T05:24:12'
-draft: false
+draft: true
 title: 'Work Trip to Charleston, SC'
 tags: ["travel", "charleston"]
 ---
