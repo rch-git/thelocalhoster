@@ -1,7 +1,7 @@
 ---
 title: 'Battlefield 4 Diary'
 date: 2016-01-25T04:12:00
-draft: false
+draft: true
 tags: ["battlefield", "game diary"]
 ---
 #### Jan 25, 2016 Saturday 06:12:00 AM CST: Dragon Valley 2015 MVP

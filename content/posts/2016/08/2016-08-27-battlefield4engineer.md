@@ -1,7 +1,7 @@
 ---
 title: 'Battlefield 4 - Engineer 100'
 date: 2016-08-27T19:14:00
-draft: false
+draft: true
 tags: ["battlefield"]
 ---
 Battlefield 3, which I purchased in 2012, was one of the best games I played at the time. Even though the weapon balance was great, I still enjoyed the game a lot. I loved the maps and the gun play.I put in 718 hours into it.

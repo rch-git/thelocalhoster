@@ -1,6 +1,6 @@
 ---
 date: '2016-03-28T07:11:00'
-draft: false
+draft: true
 title: 'Evolution of my battlestations'
 cover:
   image: "https://cdn.jsdelivr.net/gh/rch-git/staticcontent@master/images/battlestationevolution/16_setup14.jpg"

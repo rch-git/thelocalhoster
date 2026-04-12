@@ -1,7 +1,7 @@
 ---
 title: 'Azadi Palace Full Round - Battlefield 3 (PC)'
 date: 2016-03-08T04:22:00
-draft: false
+draft: true
 tags: ["battlefield"]
 ---
 This is the first of many post I plan to make. I've got videos of full rounds on all maps in Battlefield 3 maps. Played this round on May 7th, 2013.This was before the ShadowPlay days. I used DxTory record the gameplay.

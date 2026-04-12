@@ -1,7 +1,7 @@
 ---
 title: "Must Play Games In 2017"
 date: 2016-12-12T05:35:00
-draft: false
+draft: true
 tags: ["games"]
 ---
 I decided to make a list of games I want to play in 2017. I realized that I will never get to finish and play all the games I own. I have 210 games on Steam, I finished about 40 of those, so I got a long way to go. I combed through GOG, Origin, Uplay and Steam and came up with this list -

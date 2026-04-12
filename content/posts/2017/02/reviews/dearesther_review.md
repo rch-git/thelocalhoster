@@ -1,7 +1,7 @@
 ---
 title: "Dear Esther (PC) Review"
 date: 2017-02-10T11:20:00
-draft: false
+draft: true
 tags: ["game review", "dear esther"]
 ---
 Walking simulators have received a lot of attention in the gaming media lately. Having never played one, I wanted to try Dear Esther.

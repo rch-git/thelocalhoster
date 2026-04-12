@@ -1,7 +1,7 @@
 ---
 title: 'Gigabyte Support Was a Let Down'
 date: 2016-02-27T21:42:00
-draft: false
+draft: true
 tags: ["gigabyte"]
 ---
 #### Short version

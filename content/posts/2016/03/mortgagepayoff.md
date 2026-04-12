@@ -1,6 +1,6 @@
 ---
 date: '2016-03-08T22:12:00'
-draft: false
+draft: true
 title: 'To pay off the house or not pay off the house, that is the question.'
 tags: ["real estate", "debt"]
 ---

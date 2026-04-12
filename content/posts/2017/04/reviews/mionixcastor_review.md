@@ -1,7 +1,7 @@
 ---
 title: 'Mionix Castor Review'
 date: 2017-04-30T12:12:00
-draft: false
+draft: true
 tags: ["hardware review"]
 ---
  I am primarily an FPS gamer and my game of choice at the moment is Battlefield 1. I played RTS games in the past, but for the last 4 years or so, different iterations of Battlefield have kept me occupied. I do not play any MOBA games, so everything said here is from the perspective of an online FPS gamer.

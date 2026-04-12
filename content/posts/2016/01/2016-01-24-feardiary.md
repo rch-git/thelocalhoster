@@ -1,7 +1,7 @@
 ---
 title: 'F.E.A.R Diary'
 date: 2016-01-24T18:53:00
-draft: false
+draft: true
 tags: ["game diary", "fear"]
 ---
 #### Jan 24, 2016 Sunday 06:53:00 PM CST: Procrastination

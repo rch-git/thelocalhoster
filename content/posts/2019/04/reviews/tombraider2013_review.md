@@ -1,7 +1,7 @@
 ---
 title: 'Tomb Raider (2013) (PC) Review'
 date: 2019-04-28T15:02:00
-draft: false
+draft: true
 tags: ["game review", "tomb raider"]
 ---
 Tomb Raider (2013) is yet another reboot after Tomb Raider Legend, which attempts to tell the origin story of Lara Croft. Its a modern take on the classic, and for someone who has played all the Core Design games except Angel of Darkness, in my opinion, the overall experience does not measure up to the original games.
