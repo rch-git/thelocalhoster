@@ -1,6 +1,6 @@
 ---
 date: '2024-08-04T10:20:00'
-draft: false
+draft: true
 title: 'Borderlands (PC) Review'
 tags: ["borderlands", "game review"]
 ---

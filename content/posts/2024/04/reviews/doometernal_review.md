@@ -1,6 +1,6 @@
 ---
 date: '2024-05-04T15:24:00'
-draft: false
+draft: true
 title: 'Doom Eternal (PC) Review'
 tags: ["doom", "game review"]
 ---
