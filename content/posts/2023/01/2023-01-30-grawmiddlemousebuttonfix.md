@@ -1,7 +1,7 @@
 ---
 title: 'How To Fix Middle Mouse Button To Give Orders - Ghost Recon Advanced Warfighter (Steam)'
 date: 2023-01-30T06:51:00
-draft: false
+draft: true
 tags: ["games"]
 ---
 This is a fix for the middle mouse button not working when giving orders in Ghost Recon Advanced Warfighter. I am using the Steam version for this, but I would imagine this fix will work on any PC version.

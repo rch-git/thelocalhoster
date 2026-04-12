@@ -1,7 +1,7 @@
 ---
 title: 'DOOM Diary: Initial Thoughts'
 date: 2023-01-28T19:47:00
-draft: false
+draft: true
 tags: ["games", "doom"]
 ---
 I put off playing Doom (2016) for many years because I wanted to have a machine powerful enough to play it. After finishing Gun yesterday, which was a thoroughly mediocre shooter, I was in the mood for something good. Considering that I am now fortunate enough to own a fantastic computer, I decided now is the time.

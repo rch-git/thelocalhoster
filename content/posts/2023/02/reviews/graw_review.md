@@ -1,6 +1,6 @@
 ---
 date: 2023-02-27T18:12:00
-draft: false
+draft: true
 title: 'Ghost Recon Advanced Warfighter (PC) Review'
 tags: ["game review", "ghost recon"]
 ---

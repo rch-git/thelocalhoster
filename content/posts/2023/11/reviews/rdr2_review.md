@@ -1,6 +1,6 @@
 ---
 date: 2023-11-23T15:48:00
-draft: false
+draft: true
 title: 'Red Dead Redemption 2 (PC) Review'
 tags: ["read dead redemption", "game review"]
 ---

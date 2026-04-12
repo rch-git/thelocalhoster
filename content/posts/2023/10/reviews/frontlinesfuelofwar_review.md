@@ -1,6 +1,6 @@
 ---
 date: 2023-10-01T12:43:00
-draft: false
+draft: true
 title: 'Frontlines Fuel of War (PC) Review'
 ---
 A game with massive potential that sadly never lived up to it.

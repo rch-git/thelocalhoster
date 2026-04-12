@@ -1,6 +1,6 @@
 ---
 date: 2023-09-16T15:37:00
-draft: false
+draft: true
 title: 'Half-Life: Blue Shift (PC) Review'
 tags: ["half life", "game review"]
 ---

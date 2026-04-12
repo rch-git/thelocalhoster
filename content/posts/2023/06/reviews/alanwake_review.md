@@ -1,6 +1,6 @@
 ---
 date: 2023-06-30T10:11:00
-draft: false
+draft: true
 title: 'Alan Wake (PC) Review'
 tags: ["alan wake", "game review"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: ' Infinite Backlog'
 date: 2023-09-17T10:24:00
-draft: false
+draft: true
 tags: ["games"]
 ---
 As of Sunday September 17, 2023, I am looking at the games I own, and it is clear that I will not be able to finish or even play all of them in my lifetime. So I decided to make a list of games that I intend to finish or at least give my best shot.

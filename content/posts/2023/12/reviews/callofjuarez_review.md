@@ -1,6 +1,6 @@
 ---
 date: 2023-12-29T09:37:00
-draft: false
+draft: true
 title: 'Call of Juarez (PC) Review'
 tags: ["game review", "call of juarez"]
 ---
