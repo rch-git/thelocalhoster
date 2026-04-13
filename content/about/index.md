@@ -20,8 +20,6 @@ The Localhoster is the kind of person who will send you `http://localhost:8080` 
 
 This person keeps me employed, and the title is a token of gratitude.
 
-I intend to write about topics that interest me like video games, Linux (a new found interest), and other tech related topics, and maybe some travel content.
-
 If you want to contact me, you can reach me here:
 
 Email: ```thelocalhoster(at)fastmail.com```
