@@ -22,6 +22,6 @@ This person keeps me employed, and the title is a token of gratitude.
 
 If you want to contact me, you can reach me here:
 
-Email: ```thelocalhoster(at)fastmail.com```
+Email: ```alinuxuser(at)fastmail.com```
 
 X (Twitter): https://x.com/WeekendGamerTX
