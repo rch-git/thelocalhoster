@@ -2,7 +2,7 @@
 @import url('https://cdn.staticdelivr.com/gfonts/css2?family=Fira+Code:wght@300..700&display=swap');
 
 :root {
-  --background: #000000;
+  --background: #1d1d1d;
   --foreground: #ffffff;
   --accent: #ffffff;
   --radius: 0;
