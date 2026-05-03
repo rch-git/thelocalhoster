@@ -3,6 +3,13 @@ git clone https://github.com/panr/hugo-theme-terminal.git themes/terminal
 
 git submodule add -f https://github.com/panr/hugo-theme-terminal.git themes/terminal
 
+# merge
+git checkout master && git pull && git merge redesign && git push && git checkout redesign
+git checkout master && git pull && git merge --squash redesign && git commit -m "Site redesign" && git push && git checkout redesign
+
+# reset
+git checkout master && git fetch && git reset --hard origin/redesign && git push --force && git checkout redesign
+
 #### ONE LINE COMMAND TO PUSH CHANGES TO MASTER AND SWITCH BACK ####
 # run this from the root directory
 git checkout master && git pull && git merge dev && git push && git checkout dev
