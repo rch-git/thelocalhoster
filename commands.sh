@@ -69,8 +69,7 @@ sudo mv hugo /usr/local/bin/
 sysuser@ubuntuprod:~/git/thelocalhoster$ git clone https://github.com/adityatelange/hugo-PaperMod themes/PaperMod --depth=1
 
 # start the server
-sysuser@ubuntuprod:~/git/thelocalhoster$ hugo server
-
+sysuser@ubuntuprod:~/git/thelocalhoster (dev -> origin/dev)$ hugo server --cleanDestinationDir --port 8080
 
 #### remove hugo ####
 sudo apt remove -y hugo
