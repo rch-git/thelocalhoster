@@ -3,9 +3,10 @@ git clone https://github.com/panr/hugo-theme-terminal.git themes/terminal
 
 git submodule add -f https://github.com/panr/hugo-theme-terminal.git themes/terminal
 
-#### ONE LINE COMMAND TO PUSH CHANGES TO MASTER AND SWITCH BACK ####
+##### ONE LINE COMMAND TO PUSH CHANGES TO MASTER AND SWITCH BACK #####
 # run this from the root directory
 git checkout master && git pull && git merge dev && git push && git checkout dev
+git checkout master && git pull && git merge --squash dev && git commit -m "Squash merge dev" && git push && git checkout dev
 
 # run the command from inside thelocalhoster directory
 sysuser@ubuntuprod:~/git/thelocalhoster$ hugo new site . --force --format yaml
@@ -68,8 +69,7 @@ sudo mv hugo /usr/local/bin/
 sysuser@ubuntuprod:~/git/thelocalhoster$ git clone https://github.com/adityatelange/hugo-PaperMod themes/PaperMod --depth=1
 
 # start the server
-sysuser@ubuntuprod:~/git/thelocalhoster$ hugo server
-
+sysuser@ubuntuprod:~/git/thelocalhoster (dev -> origin/dev)$ hugo server --cleanDestinationDir --port 8080
 
 #### remove hugo ####
 sudo apt remove -y hugo
