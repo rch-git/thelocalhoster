@@ -1,12 +1,12 @@
 +++
 title = "About"
 date = "2019-01-25"
-author = "Radek"
+author = "RC"
 +++
 
 # The Localhoster
 
-The Localhoster is the kind of person who will reach out to you for help with their local web application, and when asked what the error is, they will send will send you `http://localhost:8080` on Slack.
+The Localhoster is the kind of person who will reach out to you for help with their local web application, and when you ask them what the error is, they will send you `http://localhost:8080` on Slack.
 
 This person keeps me employed, and this website is a token of my gratitude.
 
